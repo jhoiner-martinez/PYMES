@@ -1,0 +1,6 @@
+{
+  "name": "MiniNAS PYME - Sistema de Almacenamiento Local",
+  "description": "Panel de Control e Intranet para sistema de almacenamiento local NAS en Mini-PC para PYMEs, con gestión de archivos, RBAC, monitoreo y copias de seguridad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
